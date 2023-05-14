@@ -1,0 +1,4 @@
+# ninja log v5
+3	190	7057915782944587	build.ninja	5a340d732822e232
+0	2168	7057915805495131	CMakeFiles/LinkedQueue.dir/LinkedQueue/main.cpp.obj	2321748563393bbd
+2172	2404	7057915807828866	LinkedQueue.exe	40423517eaf6c401

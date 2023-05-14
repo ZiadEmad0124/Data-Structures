@@ -1,0 +1,4 @@
+# ninja log v5
+3	194	7057914867262921	build.ninja	db9be56fa087e06
+1	2387	7057914892036107	CMakeFiles/LinkedList.dir/LinkedList/main.cpp.obj	ab3ad810b2e953ed
+2390	2545	7057914893583080	LinkedList.exe	d5617c2638051e6c
