@@ -1,0 +1,6 @@
+# ninja log v5
+5	200	7323945630852032	build.ninja	f665fa4c08bea59d
+5	3458	7313426327533435	CMakeFiles/Queue_By_Array.dir/Queue_By_Array/main.cpp.obj	d7846528a7705532
+3459	3600	7313426328903414	Queue_By_Array.exe	f8e50982f6ec8152
+6	2437	7323945843327281	CMakeFiles/Queue_By_Array.dir/Queue_By_Array/main.cpp.obj	1bdae113c523e9b
+2438	2563	7323945844567314	Queue_By_Array.exe	f8e50982f6ec8152

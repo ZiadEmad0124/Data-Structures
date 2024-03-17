@@ -1,0 +1,6 @@
+# ninja log v5
+3	195	7323945983983804	build.ninja	65dc339fa33db8c6
+3	2588	7313425050592412	CMakeFiles/Stack_By_Array.dir/Stack_By_Array/main.cpp.obj	48718a694de1ffef
+2589	2722	7313425051904029	Stack_By_Array.exe	ebc8dcb40960564a
+6	2538	7323946264414423	CMakeFiles/Stack_By_Array.dir/Stack_By_Array/main.cpp.obj	9b2416705db355b7
+2539	2784	7323946266853054	Stack_By_Array.exe	ebc8dcb40960564a

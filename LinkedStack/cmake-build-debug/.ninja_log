@@ -1,0 +1,6 @@
+# ninja log v5
+3	197	7323945277895520	build.ninja	19c0b73ae45497c6
+4	2422	7313419237879768	CMakeFiles/LinkedStack.dir/LinkedStack/main.cpp.obj	a99b09cfdfbd5bcb
+2423	2647	7313419240104922	LinkedStack.exe	f664b4f3e9e4b23f
+7	3697	7323945436168938	CMakeFiles/LinkedStack.dir/LinkedStack/main.cpp.obj	a85d543af3a5167
+3698	3822	7323945437398969	LinkedStack.exe	f664b4f3e9e4b23f

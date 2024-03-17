@@ -1,0 +1,3 @@
+D:/Programming/Projects/JetBeans/CLion/Data Structures/Stack_By_Array/cmake-build-debug/CMakeFiles/Stack_By_Array.dir
+D:/Programming/Projects/JetBeans/CLion/Data Structures/Stack_By_Array/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming/Projects/JetBeans/CLion/Data Structures/Stack_By_Array/cmake-build-debug/CMakeFiles/rebuild_cache.dir

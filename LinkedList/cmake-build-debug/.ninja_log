@@ -1,0 +1,6 @@
+# ninja log v5
+31	964	7323944214453509	build.ninja	1fd3de91ae8794b7
+5	2556	7323923677285278	CMakeFiles/LinkedList.dir/LinkedList/main.cpp.obj	e2c8cbecb205adf4
+2556	2686	7323923678585316	LinkedList.exe	d5617c2638051e6c
+7	2536	7323944484631886	CMakeFiles/LinkedList.dir/LinkedList/main.cpp.obj	f15b1cc724536fdd
+2536	2663	7323944485892217	LinkedList.exe	d5617c2638051e6c
